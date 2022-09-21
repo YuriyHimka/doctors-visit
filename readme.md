@@ -7,3 +7,5 @@
 Technologies used: HTML, CSS, JavaScript, Git, Github, BEM, OOP, Classes, Fetch, ES6 Modules.
 
 Project on GitLab: https://gitlab.com/jw.artwork.design/step-project-visits/-/tree/main/
+
+GitHub Pages: https://yuriyhimka.github.io/doctors-visit/
